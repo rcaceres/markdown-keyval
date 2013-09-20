@@ -3,11 +3,12 @@ markdown-keyval
 
 A python markdown extension to handle simple key/vaue pairs on a single line.
 
-
+```
 Apple: Pomaceous fruit of plants of the genus Malus in.
 Orange: The fruit of an evergreen tree of the genus Citrus.
+```
 
-@todo get this to print out in a table
+* @todo get this to print out in a table
 
 
 ---
